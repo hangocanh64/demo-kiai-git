@@ -14,6 +14,14 @@ const STATUS_TMS_FIRST_VISIT = 25;
 const STATUS_CONSULTATION = 26;
 const STATUS_DUMMY_CARD = 27;
 
+//初診／再診
+const REGULARLY_FIRST = 8;
+const REGULARLY_RE = 9;
+
+//流入元
+const STATUS_OTHER = 7;
+const STATUS_COUBIC = 4;
+const STATUS_RECEPTION = 5;
 
 // 権限
 const ROLE_SYSTEM_ADMINISTRATOR = 35;
